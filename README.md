@@ -1,4 +1,4 @@
-# 📊 Prism Insurance Analytics Dashboard (Power BI)
+# 📊 Insurance Claims, Policies & Sentiment Analysis Dashboard
 ## 📌 Project Overview
 The Prism Insurance Analytics Dashboard is an interactive Power BI dashboard designed to analyze insurance policies, claims, customer demographics, and feedback.
 It helps stakeholders quickly understand premium distribution, claim performance, policy status, and customer sentiment for data-driven decision-making.
